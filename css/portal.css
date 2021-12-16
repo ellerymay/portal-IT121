@@ -28,6 +28,11 @@ main.wrapper {
     overflow: auto;
 }
 
+.center-image {
+    padding: 0;
+
+}
+
 p {
     margin: 1em; /* Top Right Bottom Left (TRBL) */
 }
